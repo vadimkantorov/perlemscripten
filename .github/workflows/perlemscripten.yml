@@ -1,4 +1,4 @@
-name: buildperlwasm
+name: perlemscripten
 
 on: workflow_dispatch
 env:
@@ -7,7 +7,7 @@ env:
 
 jobs:
 
-  buildperlwasm:
+  perlemscripten:
     runs-on: ubuntu-24.04
     steps:
       - uses: actions/checkout@v4
