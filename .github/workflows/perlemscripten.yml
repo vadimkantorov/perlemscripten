@@ -140,5 +140,5 @@ jobs:
         with:
           path: |
             wasm/config.h
-            prefix/bin/perl
-            perlembed
+            wasm/prefix/bin/perl
+            wasm/perlembed
