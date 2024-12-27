@@ -10,3 +10,4 @@
 - https://webperl.zero-g.net/building.html
 - https://github.com/Perl/perl5/compare/blead...haukex:emperl5:emperl_v5.30.0
 - https://github.com/haukex/webperl
+- https://github.com/gfx/perl.js
